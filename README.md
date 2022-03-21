@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohit Patel
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
-- 💞️ I’m looking for job in Data Science and Machine Learning .
+- 💞️ I’m looking for a job in Data Science and Machine Learning .
 - 📫 How to reach me @ "atrkpatel@gmail.com && +91-7007084822"
 
 <!---
